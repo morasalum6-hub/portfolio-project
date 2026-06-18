@@ -59,3 +59,7 @@ AI-powered SEO content production is one of the highest-leverage skills in growt
 - GitHub (web interface) for version control and documentation
 - Python + youtube-transcript-api for research automation
 - Claude (Anthropic) for research support and workflow guidance
+
+### Technical Challenges & Solutions
+- **Python script approach:** Installed Python 3.14 and Git on a Windows PC, set up the youtube-transcript-api library, and wrote a script to collect YouTube transcripts automatically. Encountered issues saving the script file correctly from the command line.
+- **Solution:** Switched to GitHub web interface to create and commit all research files directly. This produced the same result (organized files with regular commits) using a different path. Adapting the workflow to what works is faster than debugging tools that slow you down.
